@@ -1,0 +1,2 @@
+1;Mikroskop;Olympus;CX23;2020;5
+2;Pipet;Eppendorf;ResearchPlus;2019;3
